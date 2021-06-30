@@ -3,7 +3,7 @@
 I'm a software engineer since 2014, and have more experience as a backend software developer. 
 
 - 🔭 I’m currently working on c#/.NET on a E-commerce environment
-- 🌱 I’m currently learning more about microservices 
+- 🌱 I’m currently learning more about microservices and Kubernets
 
 ##
 
