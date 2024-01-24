@@ -7,7 +7,7 @@ I'm a software engineer since 2014, and have more experience as a backend softwa
 
 ##
 
-[![Linkedin Badge](https://img.shields.io/badge/Reach_me_at:-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/lucas-vago-dar%C3%B3s-53352164/)
+[![Linkedin Badge](https://img.shields.io/badge/Reach_me_at:-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/lucas-daros/)
 <!--
 **lucasvdaros/lucasvdaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
